@@ -46,6 +46,10 @@ button {
   margin-bottom: 100px;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .socials {
   display: flex;
   align-items: center;
