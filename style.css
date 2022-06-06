@@ -78,7 +78,7 @@ a {
   border: 1px solid #000;
 }
 
-@media all and (max-width: 375px) {
+@media all and (max-width: 400px) {
   body {
     background-image: url("images/bg-mobile.svg");
     background-repeat: no-repeat;
